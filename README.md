@@ -4,7 +4,7 @@ I'm SHIVANSH SEMWAL, a passionate coding enthusiast and  engineering student. We
 
 ## About Me
 
-- 🎓 Computer Science Engineering Student
+- 🎓 Civil Engineering Student with coding skills and tech enthusiasm
 - 🚀 Aspiring Problem Solver and Innovator
 - 💻 Coding Enthusiast, Constant Learner
 - 🌐 Tech Enthusiast and Future-forward Thinker
