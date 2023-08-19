@@ -16,7 +16,7 @@ I'm SHIVANSH SEMWAL, a passionate coding enthusiast and  engineering student. We
 I love exploring and working with a variety of technologies, including but not limited to:
 
 - Programming Languages: Python, c
-- Web Development: HTML, CSS, 
+- Web Development: HTML, CSS
 - Data Science: Pandas, NumPy
 - Version Control: Git and GitHub
 
